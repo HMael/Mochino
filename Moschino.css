@@ -1,0 +1,422 @@
+.blog
+{
+  width: 1200px;
+  height: 300px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.page2
+{
+  width: 1200px;
+  height: 300px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#bloc_page
+{
+  width: 1200px;
+  margin:auto;
+  background-color: #FFF;
+}
+
+body
+{
+  text-align: center;
+}
+
+.video
+{
+  width: 1200px;
+  height: 600px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.video1
+{
+  position: absolute;
+  top: 100px;
+  right: 170px;
+}
+
+.contact
+{
+  width: 1200px;
+  height: 300px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.textblog
+{
+  position: absolute;
+  display: contents;
+  text-align: justify;
+  font-family: 'Roboto', cursive;
+}
+
+.textblog2
+{
+  position: absolute;
+  display: contents;
+  text-align: justify;
+  font-family: 'Roboto', cursive;
+}
+
+.h1text
+{
+  position: absolute;
+  display: contents;
+  text-align: center;
+  font-family: 'Roboto', cursive;
+}
+
+.titre_principal
+{
+  font-family: 'Herr Von Muellerhoff', cursive;
+  font-size: 21px;
+}
+
+.sous_titre
+{
+  font-family: 'Roboto', cursive;
+}
+
+.Fotter_title
+{
+  font-family: 'Herr Von Muellerhoff', cursive;
+  font-size: 20px;
+}
+
+.copyright
+{
+font-family: 'Roboto', cursive;
+}
+
+.reduction
+{
+  font-family: 'Roboto', cursive;
+  background-color: #333;
+  background-position: top;
+  background-size:auto;
+  color:#FFF;
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+}
+ul
+{
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  display: inline;
+}
+nav li
+{
+  display: inline;
+  text-align: center;
+  margin-right: 10px;
+  font-family: 'Oswald', cursive;
+}
+
+nav a
+{
+    font-size: 1.3em;
+    color: black;
+    text-decoration: none;
+  }
+
+nav a:hover
+{
+background-color: #f8d707;
+}
+
+section a:hover
+{
+  background-color: #f8d707;
+}
+
+div a:hover
+{
+  background-color: #f8d707;
+}
+
+.footer
+{
+  background-color: #333;
+  background-position: center;
+  background-size:auto;
+  color: #FFF;
+  position: relative;
+  flex-direction: column;
+  font-size: 20px;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.formulaire
+{
+  position:absolute;
+  left:300px;
+  top: 70px;
+  }
+
+  figcaption:hover
+  {
+    opacity: 0.5;
+    -moz-opacity: 0.5;
+    -khtml-opacity: 0.5;
+    filter: alpha(opacity=0.5);
+  }
+
+.Button
+{
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 5px;
+  text-align: center;
+}
+
+.button1
+{
+  position:absolute;
+  left:-50px;
+  text-decoration: none;
+  cursor: pointer;
+  padding: 1px 5px 1px 5px;
+  border: #fff 1px solid;
+  color: #fff;
+  background-color:#f8d707;
+}
+.button2
+{
+position:absolute;
+left: -25px;
+text-decoration: none;
+cursor: pointer;
+padding: 1px 5px 1px 5px;
+border: #fff 1px solid;
+color: #fff;
+background-color: lightgrey;
+}
+
+.button3
+{
+  position:absolute;
+  left: 0px;
+  text-decoration: none;
+  cursor: pointer;
+  padding: 1px 5px 1px 5px;
+  border: #fff 1px solid;
+  color: #fff;
+  background-color: lightgrey;
+}
+
+.button4
+{
+    position:absolute;
+    left: -60px;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 1px 5px 1px 5px;
+    border: #fff 1px solid;
+    color: #fff;
+    background-color: lightgrey;
+}
+
+.button1p
+{
+    position:absolute;
+    left: 17px;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 1px 5px 1px 5px;
+    border: #fff 1px solid;
+    color: #fff;
+    background-color: lightgrey;
+}
+
+.button2p
+{
+
+    position:absolute;
+    left: 40px;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 1px 5px 1px 5px;
+    border: #fff 1px solid;
+    color: #fff;
+    background-color: lightgrey;
+    background-color:#f8d707;
+}
+
+.image
+{
+width:1200px;
+margin: 0 auto;
+height:600px;
+position: relative;
+}
+
+.blogimg1
+{
+  position: absolute;
+  height:200px;
+  width: auto;
+  top: 0px;
+  left: 0px;
+}
+
+.blogimg2
+{
+  position: absolute;
+  height:200px;
+  width: auto;
+  top: 0px;
+  left: 450px;
+}
+
+.blogimg3
+{
+  position: absolute;
+  height:200px;
+  width: auto;
+  top:0px;
+  left:900px;
+}
+
+.robot
+{
+  position: absolute;
+  height: 200px;
+  width: auto;
+  top: 70px;
+  right: 500px;
+}
+
+img:hover
+{
+opacity: 0.5;
+-moz-opacity: 0.5;
+-khtml-opacity: 0.5;
+filter: alpha(opacity=0.5);
+
+}
+
+.fig1 img
+{
+position: absolute;
+height:200px;
+width: auto;
+top: 30px;
+left: 130px;
+}
+
+.fig2 img
+{
+position: absolute;
+height:200px;
+width: auto;
+top: 30px;
+left: 450px;
+}
+
+.fig3 img
+{
+position: absolute;
+height:200px;
+width: auto;
+top: 30px;
+right: 130px;
+}
+
+.fig4 img
+{
+position: absolute;
+height:200px;
+width: auto;
+top: 290px;
+left: 130px;
+}
+
+.fig5 img
+{
+position: absolute;
+height:200px;
+width: auto;
+top: 290px;
+left:450px;
+}
+
+.fig6 img
+{
+position: absolute;
+height:200px;
+width: auto;
+top: 290px;
+right: 130px;
+}
+.text1
+{
+ font-family: 'Oswald', cursive;
+  position: absolute;
+  top: 230px;
+  left: 130px;
+  width: 30%;
+  text-align: left;
+  font-size: smaller;
+}
+.text2
+{
+  font-family: 'Oswald', cursive;
+  position: absolute;
+  top: 230px;
+  left: 450px;
+  width: 30%;
+  text-align: left;
+  font-size: smaller;
+}
+.text3
+{
+  font-family: 'Oswald', cursive;
+  position: absolute;
+  top: 230px;
+  left: 770px;
+  width: 30%;
+  text-align: left;
+  font-size: smaller;
+}
+.text4
+{
+  font-family: 'Oswald', cursive;
+  position: absolute;
+  top: 490px;
+  left: 130px;
+  width: 30%;
+  text-align: left;
+  font-size: smaller;
+}
+.text5
+{
+  font-family: 'Oswald', cursive;
+  position: absolute;
+  top: 490px;
+  left:450px;
+  width: 30%;
+  text-align: left;
+  font-size: smaller;
+}
+.text6
+{
+  font-family: 'Oswald', cursive;
+  position: absolute;
+  top: 490px;
+  left: 770px;
+  width: 30%;
+  text-align: left;
+  font-size: smaller;
+}
